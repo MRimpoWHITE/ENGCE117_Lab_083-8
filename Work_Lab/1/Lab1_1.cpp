@@ -12,9 +12,6 @@ int main(){
         printf( "[%d] Hello World\n" , i + 1 ) ; 
     } // end for
 
-    //test
-
-    printf("test") ;
 
 
     return 0 ;
